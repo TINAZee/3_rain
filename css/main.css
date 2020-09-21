@@ -1,0 +1,62 @@
+body {
+    background-image: url(../img/desingbg.png);
+    background-size: cover;
+    background-position: center right;
+    
+}
+
+main {
+    float: left;
+    width: 1200px;
+    margin-left: calc((100% - 1200px) / 2);
+    margin-top: 100px;
+    background-color:#D3D0D0;
+    text-align: center;
+    background-size: cover;
+    background-position: center bottom;
+   
+
+}
+.logo {
+    margin-top: 100px;
+    width: 400px;
+    height: 200px;
+}
+h1 {
+    font-size: 100px;
+    color: #ffffff;
+    line-height: 80px;
+    font-family: 'Kufam', cursive;
+}
+p {
+    font-size: 50px;
+    color: #ffffff;
+    line-height: 30px;
+    font-family: 'Kufam', cursive;
+}
+.text {
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #8C8C8C;
+    margin-top: 19px;
+    font-family: 'Kufam', cursive;
+}
+.login {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #595959;
+    padding: 20px 0 20px 0;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    padding-top: 20px;
+    font-size: 50px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #ffffff;
+    background-color: #595959;
+    padding: 5px 577px 10px 577px;
+    cursor: pointer;
+}
